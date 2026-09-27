@@ -6,11 +6,6 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.x-5c3ee8)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
 
-This is a Python / PyTorch re-implementation of the journal paper
-
-> M. Agarwal, G. Rani, A. Kumar, P. Kumar K, R. Manikandan, A. H. Gandomi,
-> **"Deep learning for enhanced brain tumor detection and classification"**,
-> *Results in Engineering*, 22 (2024) 102117. [doi:10.1016/j.rineng.2024.102117](https://doi.org/10.1016/j.rineng.2024.102117)
 
 The system classifies brain tumours in MRI scans as **benign** or **malignant** in two phases.
 First it improves low-contrast MRI images with the **ODTWCHE** enhancement technique.
